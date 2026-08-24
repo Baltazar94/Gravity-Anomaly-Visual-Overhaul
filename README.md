@@ -1,4 +1,4 @@
-# Gravity-Anomaly-Visual-Overhaul
+# Gravity Anomaly Visual Overhaul v1.0
 
 Hi.
 
