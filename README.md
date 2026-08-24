@@ -18,4 +18,4 @@ If you find an anomaly with the vacuum effect that contains only green leaves (t
 Does it effect performance?
 - yes, there are more and bigger leaves, but I'm not sure if it's noticeable
 
-Install below Particles Cinematic VFX 3.5 1.1.2 BOTZ YAWM mod in MO2
+Install: put my mod below Particles Cinematic VFX 3.5 1.1.2 BOTZ YAWM mod in MO2
